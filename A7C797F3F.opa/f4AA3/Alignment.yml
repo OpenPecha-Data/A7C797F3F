@@ -1,0 +1,18 @@
+segment_sources:
+  IB9B2E37B:
+    type: origin_type
+    relation: translation
+    language: zh
+  IC9AA56EC:
+    type: origin_type
+    relation: translation
+    language: zh
+  IA59D5C1C:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  bb9a1e0ff0af4aa7b4bbed4751b22c62:
+    IB9B2E37B: 3b80ccd16563484d9c407e3acbc77c61
+    IC9AA56EC: 704093f9f70f4f3bb9f8a62cd3e0edab
+    IA59D5C1C: 34f15a154d554006adbc00fef2d6032e
